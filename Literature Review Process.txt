@@ -1,0 +1,112 @@
+1. File is downloaded in MTP/References with filename = CitationKey. 
+   Refer Annexure 1 for different citationkey formats.  
+   Articles - CitationKey : [year]_[authEtAl]_[journal:abbr]  
+2. Paper is read according to the method mentioned in Annexure 2. 
+3. "Stage 1" questions are answered. 
+4. Paper information is entered in "Library" sheet of excel file "Synthesis Matrix MTP".
+5. If required, Stage 2 and further reading is done. 
+6. New entry is made in the JabRef library and file is moved to 
+   "MTP/MTP Work/Literature_Review/".
+
+
+
+
+--> JabRef:
+
+- Groups:
+  --- MTP - Venus Airship
+	1. Venus Science
+		a. Atmospheric Data 
+		b. Goals & Instruments
+	2. Venus Aerobots
+	3. LTA 
+		a. Sizing
+		b. MDO 
+		c. Operation
+	4. Optimization Techniques
+	5. Engineering Optimization
+
+  --- IDEAS: DT
+	1 TBD
+
+
+- Quality
+	TRUE: If quality of article is Good. 	
+
+- Read Status:
+	Skimmed: If abstract, conclusions and contents are understood. Stage 1 Completed
+	Read   : If Stage 3 or 3+ Completed. 
+
+- Flag: Not Applicable to Skimmed 
+	High   : If Stage 3+ to be completed 
+	Medium : If Stage 3 to be completed
+	Low    : If Stage 2 to be completed 
+
+- Rank
+	a. By Algorithm
+	b. After reading : TBD 
+
+- PDF Mark 
+
+- Web Mark 
+
+- Print Mark
+
+	
+-------------------------------EOF-----------------------------------------------
+
+
+--> Annexure 1: Citationkey formats 
+1. Articles: [year]_[authEtAl]_[journal:abbr]
+2. Default : [year]_[authEtAl]
+
+
+--> Annexure 2: Paper Reading (for Stage 1)
+1. Read the abstract. 
+   Write the index of the paper on first page. 
+2. Read the introduction - use BLUE GREEN colors. 
+3. Read literature survey briefly, identify the key references and research gap - RED. 
+4. Skip the methodology. 
+5. go to Results and Discussion, answer the "GREEN", understand the figures
+   Underline in purple when figure is referenced 
+   Besides figures, comment the significance and summarise what it's showing
+6. Go through the conclusions. 
+7. Highlight key references by RED and download them. 
+
+
+--> Annexure 3: Annotation Legend
+
+Blue 	 - Background / General
+Green  - Objectives / Goals / Hypothesis 
+Red    - Important / Research Gaps 
+Purple  - Findings / Conclusions 
+Orange - Method Summary 
+
+Blue Underllines: Vocabulary, add meaning in the comment
+
+Blue : Background / General
+- anything that is pertinent to remember 
+- a significant fact 
+- important concept 
+- acronyms 
+
+Green : Objectives / Goals / Hypothesis 
+- things that answer "what ?"
+- At relevent places, add the "what" questions to which answer should be identified.
+
+Red : Important / Research Gap
+- What questions arose or which are still unanswered ?
+- Research gaps that authors tried fill 
+
+Purple : Findings / Conclusions 
+- Answers to Green stuff 
+
+Orange: Method
+
+
+Yellow: Imp Table, figure & referece 
+- For referece, put title, journal name and year, each being on next line  
+- If the reference is studied, mention the stage of review of article entered in SM. 
+-  
+
+

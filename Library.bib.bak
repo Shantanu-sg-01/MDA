@@ -1,0 +1,15 @@
+@TechReport{2021_Cutts_TR_PSDS,
+  author         = {Cutts, James A},
+  institution    = {Planetary Science Decadal Survey},
+  title          = {Scientific Exploration of Venus with Aerial Platforms},
+  type           = {resreport},
+  comment        = {- Stage 2 shalll be completed with respect to payload information.
+
+- References yet to be downloaded},
+  file           = {:2021_CuttsEtAl_TR_PSDS.pdf:PDF},
+  groups         = {Goals & Instruments, Planetary Exploration, Operation},
+  priority       = {prio3},
+  qualityassured = {qualityAssured},
+  readstatus     = {skimmed},
+  year           = {2021},
+}

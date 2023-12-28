@@ -1,0 +1,55 @@
+@TechReport{2021_Cutts_TR_PSDS,
+  author         = {Cutts, James A},
+  institution    = {Planetary Science Decadal Survey},
+  title          = {Scientific Exploration of Venus with Aerial Platforms},
+  type           = {resreport},
+  comment        = {- Stage 2 shalll be completed with respect to payload information.
+
+- References yet to be downloaded},
+  file           = {:2021_CuttsEtAl_TR_PSDS.pdf:PDF},
+  groups         = {Goals & Instruments, Planetary Exploration, Operation},
+  priority       = {prio3},
+  qualityassured = {qualityAssured},
+  ranking        = {rank3},
+  readstatus     = {skimmed},
+  year           = {2021},
+}
+
+@Book{munson2013fluid,
+  author    = {Munson, Bruce Roy and Okiishi, Theodore Hisao and Huebsch, Wade W and Rothmayer, Alric P},
+  publisher = {Wiley Singapore},
+  title     = {Fluid mechanics},
+  year      = {2013},
+}
+
+@Article{gray2003shock,
+  author    = {Gray, JMNT and Tai, Y-C and Noelle, S},
+  journal   = {Journal of Fluid Mechanics},
+  title     = {Shock waves, dead zones and particle-free regions in rapid granular free-surface flows},
+  year      = {2003},
+  pages     = {161--181},
+  volume    = {491},
+  publisher = {Cambridge University Press},
+}
+
+@Article{tuzun1985gravity,
+  author    = {T{\"u}z{\"u}n, U and Nedderman, RM},
+  journal   = {Chemical engineering science},
+  title     = {Gravity flow of granular materials round obstacles—I: Investigation of the effects of inserts on flow patterns inside a silo},
+  year      = {1985},
+  number    = {3},
+  pages     = {325--336},
+  volume    = {40},
+  publisher = {Elsevier},
+}
+
+@Article{tuzun1985gravity,
+  author    = {T{\"u}z{\"u}n, U and Nedderman, RM},
+  journal   = {Chemical engineering science},
+  title     = {Gravity flow of granular materials round obstacles—II: investigation of the stress profiles at the wall of a silo with inserts},
+  year      = {1985},
+  number    = {3},
+  pages     = {337--351},
+  volume    = {40},
+  publisher = {Elsevier},
+}
